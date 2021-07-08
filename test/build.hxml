@@ -1,0 +1,8 @@
+-main Main
+-lib screeps_arena
+-cp src
+
+-js build/script.js
+-dce full
+
+--macro includeFile('screeps/init.js')

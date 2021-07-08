@@ -1,0 +1,11 @@
+{
+  "name": "screeps_arena",
+  "license": "MIT",
+  "tags": [""],
+  "description": "",
+  "contributors": ["RudenkoArts"],
+  "releasenote": "",
+  "version": "0.0.1",
+  "url": "https://github.com/RudenkoArts/screeps_arena_hx",
+  "dependencies": {}
+}
